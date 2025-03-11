@@ -37,7 +37,7 @@
   "dependencies": {
     "@medusajs/types": "2.6.1",
     "fetch-event-stream": "^0.1.5",
-    "qs": "^6.12.1"
+    "qs": "^6.12.2"
   },
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.json && tsc -p tsconfig.esm.json",

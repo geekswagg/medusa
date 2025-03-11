@@ -20,7 +20,7 @@
     "@next/mdx": "15.0.4",
     "clsx": "^2.1.0",
     "docs-ui": "*",
-    "next": "15.0.4",
+    "next": "15.1.2",
     "react": "rc",
     "react-dom": "rc",
     "rehype-mdx-code-props": "^2.0.0",
