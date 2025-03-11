@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@medusajs/utils": "^1.11.2",
-    "axios": "^0.21.4",
+    "axios": "^1.8.2",
     "chalk": "^4.0.0",
     "configstore": "5.0.1",
     "core-js": "^3.6.5",
@@ -61,7 +61,7 @@
     "prompts": "^2.4.2",
     "regenerator-runtime": "^0.13.11",
     "resolve-cwd": "^3.0.0",
-    "semver": "^7.3.8",
+    "semver": "^7.6.1",
     "stack-trace": "^0.0.10",
     "ulid": "^2.3.0",
     "winston": "^3.8.2",

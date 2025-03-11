@@ -24,7 +24,7 @@
     "watch": "tsc --watch"
   },
   "devDependencies": {
-    "axios": "^1.6.8",
+    "axios": "^1.8.2",
     "cross-env": "^5.2.1",
     "jest": "^29.7.0",
     "rimraf": "^5.0.1",

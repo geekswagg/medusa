@@ -28,7 +28,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "qs": "^6.12.1"
+    "qs": "^6.12.2"
   },
   "scripts": {
     "prepublishOnly": "cross-env NODE_ENV=production tsc --build",
