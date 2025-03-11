@@ -5642,7 +5642,7 @@ __metadata:
     jsonwebtoken: ^9.0.2
     lodash: 4.17.21
     morgan: ^1.9.1
-    path-to-regexp: ^0.1.10
+    path-to-regexp: ^1.9.0
     pg: ^8.13.0
     rimraf: ^3.0.2
     supertest: ^4.0.2
@@ -5734,7 +5734,7 @@ __metadata:
     react-dom: ^18.2.0
     resize-observer-polyfill: ^1.5.1
     rimraf: ^5.0.1
-    rollup: ^3.29.5
+    rollup: ^4.22.4
     rollup-plugin-esbuild: ^5.0.0
     rollup-plugin-license: ^3.0.1
     rollup-plugin-ts: ^3.2.0
@@ -22875,6 +22875,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"isarray@npm:0.0.1":
+  version: 0.0.1
+  resolution: "isarray@npm:0.0.1"
+  checksum: ed1e62da617f71fe348907c71743b5ed550448b455f8d269f89a7c7ddb8ae6e962de3dab6a74a237b06f5eb7f6ece7a45ada8ce96d87fe972926530f91ae3311
+  languageName: node
+  linkType: hard
+
 "isarray@npm:^2.0.5":
   version: 2.0.5
   resolution: "isarray@npm:2.0.5"
@@ -26745,7 +26752,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"path-to-regexp@npm:0.1.12, path-to-regexp@npm:^0.1.10":
+"path-to-regexp@npm:0.1.12":
   version: 0.1.12
   resolution: "path-to-regexp@npm:0.1.12"
   checksum: 1c6ff10ca169b773f3bba943bbc6a07182e332464704572962d277b900aeee81ac6aa5d060ff9e01149636c30b1f63af6e69dd7786ba6e0ddb39d4dee1f0645b
@@ -26756,6 +26763,15 @@ __metadata:
   version: 0.1.7
   resolution: "path-to-regexp@npm:0.1.7"
   checksum: 50a1ddb1af41a9e68bd67ca8e331a705899d16fb720a1ea3a41e310480948387daf603abb14d7b0826c58f10146d49050a1291ba6a82b78a382d1c02c0b8f905
+  languageName: node
+  linkType: hard
+
+"path-to-regexp@npm:^1.9.0":
+  version: 1.9.0
+  resolution: "path-to-regexp@npm:1.9.0"
+  dependencies:
+    isarray: 0.0.1
+  checksum: de9ddb01b84d9c2c8e2bed18630d8d039e2d6f60a6538595750fa08c7a6482512257464c8da50616f266ab2cdd2428387e85f3b089e4c3f25d0c537e898a0751
   languageName: node
   linkType: hard
 
@@ -29599,21 +29615,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^3.29.5":
-  version: 3.29.5
-  resolution: "rollup@npm:3.29.5"
-  dependencies:
-    fsevents: ~2.3.2
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  bin:
-    rollup: dist/bin/rollup
-  checksum: a1fa26f21f0d6cf93b6d05ea284ad5854905b585f28a14c27d439b0f9b859cba13ea25f376303d86770e59b4686bedc52b4706e57442514f0414c6fd3c5b8e71
-  languageName: node
-  linkType: hard
-
-"rollup@npm:^4.24.0, rollup@npm:^4.34.8":
+"rollup@npm:^4.22.4, rollup@npm:^4.24.0, rollup@npm:^4.34.8":
   version: 4.35.0
   resolution: "rollup@npm:4.35.0"
   dependencies:
