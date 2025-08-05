@@ -70,7 +70,7 @@
     "rimraf": "^3.0.2",
     "supertest": "^4.0.2",
     "typescript": "^5.6.2",
-    "vite": "^6.2.1"
+    "vite": "^6.2.7"
   },
   "dependencies": {
     "@jercle/yargonaut": "^1.1.5",
@@ -87,13 +87,13 @@
     "connect-redis": "5.2.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "express": "^4.20.0",
+    "express": "^5.0.0",
     "express-session": "^1.17.3",
     "glob": "7.2.3",
     "jsonwebtoken": "^9.0.2",
     "lodash": "4.17.21",
     "morgan": "^1.9.1",
-    "path-to-regexp": "^0.1.10",
+    "path-to-regexp": "^1.9.0",
     "tsconfig-paths": "^4.2.0",
     "zod": "3.22.4"
   },
@@ -107,7 +107,7 @@
     "awilix": "^8.0.1",
     "ioredis": "^5.4.1",
     "pg": "^8.13.0",
-    "vite": "^6.2.1"
+    "vite": "^6.2.7"
   },
   "peerDependenciesMeta": {
     "@mikro-orm/cli": {
