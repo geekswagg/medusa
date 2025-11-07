@@ -76,7 +76,7 @@
     "@jercle/yargonaut": "^1.1.5",
     "@medusajs/modules-sdk": "2.6.1",
     "@medusajs/orchestration": "2.6.1",
-    "@medusajs/telemetry": "2.6.1",
+    "@medusajs/telemetry": "2.11.3",
     "@medusajs/types": "2.6.1",
     "@medusajs/utils": "2.6.1",
     "@medusajs/workflows-sdk": "2.6.1",
