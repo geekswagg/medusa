@@ -32,7 +32,7 @@
     "@medusajs/stock-location": "workspace:^",
     "@medusajs/store": "workspace:^",
     "@medusajs/tax": "workspace:^",
-    "@medusajs/test-utils": "workspace:*",
+    "@medusajs/test-utils": "2.11.3",
     "@medusajs/user": "workspace:^",
     "@medusajs/utils": "workspace:^",
     "@medusajs/workflow-engine-inmemory": "workspace:*",
