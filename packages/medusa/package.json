@@ -106,7 +106,7 @@
     "@medusajs/stock-location": "2.6.1",
     "@medusajs/store": "2.6.1",
     "@medusajs/tax": "2.6.1",
-    "@medusajs/telemetry": "2.6.1",
+    "@medusajs/telemetry": "2.11.3",
     "@medusajs/user": "2.6.1",
     "@medusajs/workflow-engine-inmemory": "2.6.1",
     "@medusajs/workflow-engine-redis": "2.6.1",
