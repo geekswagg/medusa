@@ -31,7 +31,7 @@
     "docs-utils": "*",
     "fdir": "^6.4.3",
     "slugify": "^1.6.6",
-    "tags": "*",
+    "tags": "0.1.0",
     "yaml": "^2.7.0"
   },
   "devDependencies": {
