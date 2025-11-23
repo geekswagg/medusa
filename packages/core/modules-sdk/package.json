@@ -45,8 +45,8 @@
     "typescript": "^5.6.2"
   },
   "dependencies": {
-    "@medusajs/orchestration": "2.6.1",
-    "@medusajs/types": "2.6.1",
+    "@medusajs/orchestration": "0.0.2",
+    "@medusajs/types": "0.0.1",
     "@medusajs/utils": "2.6.1"
   },
   "peerDependencies": {
