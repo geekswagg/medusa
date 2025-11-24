@@ -38,8 +38,8 @@
     "@medusajs/core-flows": "link:../../../../packages/core/core-flows",
     "@medusajs/workflows-sdk": "link:../../../../packages/core/workflows-sdk",
     "eslint": "^8.53.0",
-    "glob": "^10.3.10",
-    "utils": "*",
+    "glob": "^10.5.0",
+    "utils": "0.0.1",
     "yaml": "^2.3.3"
   }
 }
