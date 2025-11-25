@@ -35,8 +35,8 @@
     "medusa-oas": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@medusajs/medusa": "2.6.1",
-    "@medusajs/utils": "2.6.1",
+    "@medusajs/medusa": "0.1.16",
+    "@medusajs/utils": "0.0.1",
     "@readme/json-schema-ref-parser": "^1.2.0",
     "@readme/openapi-parser": "^2.4.0",
     "@redocly/cli": "^1.7.0",
