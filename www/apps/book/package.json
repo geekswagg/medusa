@@ -21,7 +21,7 @@
     "clsx": "^2.1.0",
     "docs-ui": "*",
     "docs-utils": "*",
-    "next": "15.2.4",
+    "next": "15.4.7",
     "react": "rc",
     "react-dom": "rc",
     "rehype-mdx-code-props": "^2.0.0",
