@@ -15,7 +15,7 @@
     "@medusajs/cache-inmemory": "workspace:*",
     "@medusajs/customer": "workspace:^",
     "@medusajs/event-bus-local": "workspace:*",
-    "@medusajs/medusa": "workspace:*",
+    "@medusajs/medusa": "0.1.16",
     "@medusajs/modules-sdk": "workspace:^",
     "@medusajs/payment": "workspace:^",
     "@medusajs/pricing": "workspace:^",
@@ -26,7 +26,7 @@
     "@medusajs/tax": "workspace:^",
     "@medusajs/user": "workspace:^",
     "@medusajs/utils": "workspace:^",
-    "@medusajs/workflow-engine-inmemory": "workspace:*",
+    "@medusajs/workflow-engine-inmemory": "0.0.2",
     "pg": "^8.11.3"
   },
   "devDependencies": {
