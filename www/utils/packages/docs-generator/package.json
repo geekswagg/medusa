@@ -21,7 +21,7 @@
     "chalk": "^5.4.1",
     "commander": "^11.1.0",
     "dotenv": "^16.3.1",
-    "eslint": "8.56.0",
+    "eslint": "9.0.0",
     "minimatch": "^10.0.3",
     "openai": "^4.29.1",
     "openapi-types": "^12.1.3",
