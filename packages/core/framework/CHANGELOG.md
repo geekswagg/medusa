@@ -1,5 +1,21 @@
 # @medusajs/framework
 
+## 2.12.2
+
+### Patch Changes
+
+- [#14204](https://github.com/medusajs/medusa/pull/14204) [`9f7846ae0babbad39947a1f33d236bff8b5098d0`](https://github.com/medusajs/medusa/commit/9f7846ae0babbad39947a1f33d236bff8b5098d0) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): revert route loading parallelization
+
+- Updated dependencies []:
+  - @medusajs/cli@2.12.2
+  - @medusajs/modules-sdk@2.12.2
+  - @medusajs/orchestration@2.12.2
+  - @medusajs/types@2.12.2
+  - @medusajs/utils@2.12.2
+  - @medusajs/workflows-sdk@2.12.2
+  - @medusajs/deps@2.12.2
+  - @medusajs/telemetry@2.12.2
+
 ## 2.12.1
 
 ### Patch Changes

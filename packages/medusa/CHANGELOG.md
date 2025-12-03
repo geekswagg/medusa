@@ -1,5 +1,62 @@
 # Change Log
 
+## 2.12.2
+
+### Patch Changes
+
+- Updated dependencies [[`9f7846ae0babbad39947a1f33d236bff8b5098d0`](https://github.com/medusajs/medusa/commit/9f7846ae0babbad39947a1f33d236bff8b5098d0)]:
+  - @medusajs/framework@2.12.2
+  - @medusajs/core-flows@2.12.2
+  - @medusajs/analytics@2.12.2
+  - @medusajs/api-key@2.12.2
+  - @medusajs/auth@2.12.2
+  - @medusajs/cache-inmemory@2.12.2
+  - @medusajs/cache-redis@2.12.2
+  - @medusajs/caching@2.12.2
+  - @medusajs/cart@2.12.2
+  - @medusajs/currency@2.12.2
+  - @medusajs/customer@2.12.2
+  - @medusajs/event-bus-local@2.12.2
+  - @medusajs/event-bus-redis@2.12.2
+  - @medusajs/file@2.12.2
+  - @medusajs/fulfillment@2.12.2
+  - @medusajs/index@2.12.2
+  - @medusajs/inventory@2.12.2
+  - @medusajs/link-modules@2.12.2
+  - @medusajs/locking@2.12.2
+  - @medusajs/notification@2.12.2
+  - @medusajs/order@2.12.2
+  - @medusajs/payment@2.12.2
+  - @medusajs/pricing@2.12.2
+  - @medusajs/product@2.12.2
+  - @medusajs/promotion@2.12.2
+  - @medusajs/analytics-local@2.12.2
+  - @medusajs/analytics-posthog@2.12.2
+  - @medusajs/auth-emailpass@2.12.2
+  - @medusajs/auth-github@2.12.2
+  - @medusajs/auth-google@2.12.2
+  - @medusajs/caching-redis@2.12.2
+  - @medusajs/file-local@2.12.2
+  - @medusajs/file-s3@2.12.2
+  - @medusajs/fulfillment-manual@2.12.2
+  - @medusajs/locking-postgres@2.12.2
+  - @medusajs/locking-redis@2.12.2
+  - @medusajs/notification-local@2.12.2
+  - @medusajs/notification-sendgrid@2.12.2
+  - @medusajs/payment-stripe@2.12.2
+  - @medusajs/region@2.12.2
+  - @medusajs/sales-channel@2.12.2
+  - @medusajs/settings@2.12.2
+  - @medusajs/stock-location@2.12.2
+  - @medusajs/store@2.12.2
+  - @medusajs/tax@2.12.2
+  - @medusajs/user@2.12.2
+  - @medusajs/workflow-engine-inmemory@2.12.2
+  - @medusajs/workflow-engine-redis@2.12.2
+  - @medusajs/draft-order@2.12.2
+  - @medusajs/admin-bundler@2.12.2
+  - @medusajs/telemetry@2.12.2
+
 ## 2.12.1
 
 ### Patch Changes
