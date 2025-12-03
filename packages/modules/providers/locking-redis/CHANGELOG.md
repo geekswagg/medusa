@@ -1,5 +1,12 @@
 # @medusajs/locking-redis
 
+## 2.12.2
+
+### Patch Changes
+
+- Updated dependencies [[`9f7846ae0babbad39947a1f33d236bff8b5098d0`](https://github.com/medusajs/medusa/commit/9f7846ae0babbad39947a1f33d236bff8b5098d0)]:
+  - @medusajs/framework@2.12.2
+
 ## 2.12.1
 
 ### Patch Changes
