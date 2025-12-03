@@ -21,7 +21,7 @@
     "@stefanprobst/rehype-extract-toc": "^3.0.0",
     "clsx": "^2.1.0",
     "docs-ui": "*",
-    "next": "15.3.5",
+    "next": "15.4.8",
     "posthog-js": "^1.298.1",
     "react": "rc",
     "react-dom": "rc",
