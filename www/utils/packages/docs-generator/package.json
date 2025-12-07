@@ -23,7 +23,7 @@
     "chalk": "^5.4.1",
     "commander": "^11.1.0",
     "dotenv": "^16.3.1",
-    "eslint": "8.56.0",
+    "eslint": "9.0.0",
     "fdir": "^6.5.0",
     "glob": "11.1.0",
     "minimatch": "^9.0.3",
@@ -32,7 +32,7 @@
     "pluralize": "^8.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.6.2",
-    "utils": "*",
+    "utils": "0.0.1",
     "yaml": "^2.3.4"
   },
   "devDependencies": {
