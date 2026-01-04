@@ -24,7 +24,7 @@
     "algoliasearch": "4",
     "autoprefixer": "10.4.14",
     "clsx": "^2.0.0",
-    "docs-ui": "*",
+    "docs-ui": "0.1.0",
     "docs-utils": "*",
     "jsdom": "^27.1.0",
     "json-schema": "^0.4.0",
