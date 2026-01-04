@@ -31,9 +31,9 @@
   },
   "dependencies": {
     "@medusajs/deps": "2.12.1",
-    "@medusajs/modules-sdk": "2.12.1",
-    "@medusajs/orchestration": "2.12.1",
-    "@medusajs/utils": "2.12.1",
+    "@medusajs/modules-sdk": "0.0.1",
+    "@medusajs/orchestration": "0.0.2",
+    "@medusajs/utils": "0.0.1",
     "ulid": "^2.3.0"
   },
   "scripts": {
