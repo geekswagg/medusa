@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@medusajs/deps": "2.12.1",
-    "@medusajs/utils": "2.12.1",
+    "@medusajs/utils": "0.0.1",
     "ulid": "^2.3.0"
   },
   "scripts": {
