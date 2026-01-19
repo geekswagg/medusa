@@ -54,7 +54,7 @@
   "dependencies": {
     "@inquirer/checkbox": "^2.3.11",
     "@inquirer/input": "^2.2.9",
-    "@medusajs/admin-bundler": "2.12.5",
+    "@medusajs/admin-bundler": "0.0.0",
     "@medusajs/analytics": "2.12.5",
     "@medusajs/analytics-local": "2.12.5",
     "@medusajs/analytics-posthog": "2.12.5",
