@@ -77,7 +77,7 @@
     "prism-react-renderer": "2.4.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "react-instantsearch": "^7.13.6",
+    "react-instantsearch": "^7.22.1",
     "react-markdown": "^9.0.1",
     "react-medium-image-zoom": "^5.2.10",
     "react-tooltip": "^5.28.0",
