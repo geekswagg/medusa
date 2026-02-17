@@ -29,8 +29,8 @@
     "@medusajs/types": "2.12.5"
   },
   "dependencies": {
-    "@medusajs/deps": "2.12.5",
-    "@medusajs/utils": "2.12.5",
+    "@medusajs/deps": "2.11.0",
+    "@medusajs/utils": "0.0.1",
     "ulid": "^2.3.0"
   },
   "scripts": {
