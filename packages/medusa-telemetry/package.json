@@ -29,7 +29,7 @@
     "test": "../../node_modules/.bin/jest --passWithNoTests src"
   },
   "dependencies": {
-    "@babel/runtime": "^7.26.10",
+    "@babel/runtime": "^7.28.6",
     "axios": "^1.13.1",
     "axios-retry": "^3.1.9",
     "boxen": "^5.0.1",
