@@ -37,9 +37,9 @@
   "dependencies": {
     "@medusajs/core-flows": "link:../../../../packages/core/core-flows",
     "@medusajs/workflows-sdk": "link:../../../../packages/core/workflows-sdk",
-    "eslint": "^8.53.0",
+    "eslint": "^9.0.0",
     "glob": "11.1.0",
-    "utils": "*",
+    "utils": "0.0.1",
     "yaml": "^2.3.3"
   }
 }
