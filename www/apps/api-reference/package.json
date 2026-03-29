@@ -50,7 +50,7 @@
     "tailwind": "*",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6",
-    "yaml": "^2.3.1"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "15.3.9",

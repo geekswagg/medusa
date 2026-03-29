@@ -34,7 +34,7 @@
     "pluralize": "^8.0.0",
     "slugify": "^1.6.6",
     "tags": "*",
-    "yaml": "^2.7.0"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.20",
