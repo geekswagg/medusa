@@ -5,6 +5,7 @@ import {
   cs,
   de,
   el,
+  enGB,
   enUS,
   es,
   faIR,
@@ -52,6 +53,12 @@ export const languages: Language[] = [
     display_name: "English",
     ltr: true,
     date_locale: enUS,
+  },
+  {
+    code: "enGB",
+    display_name: "English (UK)",
+    ltr: true,
+    date_locale: enGB,
   },
   {
     code: "es",

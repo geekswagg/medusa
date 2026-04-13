@@ -2,6 +2,7 @@ import bg from "./bg.json"
 import de from "./de.json"
 import el from "./el.json"
 import en from "./en.json"
+import enGB from "./enGB.json"
 import es from "./es.json"
 import fr from "./fr.json"
 import he from "./he.json"
@@ -30,6 +31,7 @@ import nl from "./nl.json"
 import bs from "./bs.json"
 import id from "./id.json"
 import zhTW from "./zhTW.json"
+
 export default {
   bs: {
     translation: bs,
@@ -45,6 +47,9 @@ export default {
   },
   en: {
     translation: en,
+  },
+  enGB: {
+    translation: enGB,
   },
   es: {
     translation: es,
