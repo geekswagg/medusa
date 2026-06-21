@@ -39,6 +39,6 @@
     "handlebars": "^4.7.8",
     "js-beautify": "^1.15.1",
     "slugify": "^1.6.6",
-    "utils": "*"
+    "utils": "0.0.1"
   }
 }
